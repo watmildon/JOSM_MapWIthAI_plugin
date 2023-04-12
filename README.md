@@ -1,3 +1,5 @@
+Please see [JOSM/MapWithAI](https://github.com/JOSM/MapWithAI) for the current repository location!
+
 # JOSM MapWithAI Plugin (formerly RapiD Plugin)
 
 [![pipeline status](https://github.com/JOSM/MapWithAI/actions/workflows/ant.yml/badge.svg)](https://github.com/JOSM/MapWithAI/actions/workflows/ant.yml)
